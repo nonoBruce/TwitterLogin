@@ -16,7 +16,7 @@ allprojects {
 
 //
     repositories {
-        //twitterÌí¼ÓÕâ¸ö
+        //twitteræ·»åŠ è¿™ä¸ª
         jcenter()
     }
 }

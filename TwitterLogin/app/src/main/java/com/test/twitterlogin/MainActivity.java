@@ -1,4 +1,4 @@
-package gamebegin.twitterlogin;
+package com.test.twitterlogin;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
