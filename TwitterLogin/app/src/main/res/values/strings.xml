@@ -1,0 +1,9 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">TwitterLogin</string>
+
+
+    <!--test-->
+    <string  name="twitter_consumer_key">6UFxIZuZIhAy4Mi8RGlIgByV9</string>
+    <string  name="twitter_consumer_secret">MmOJhdd13jR5a3TmEpey5RdXVXBG6qNJZpES4rFXhEp2B4h4rP</string>
+
+</resources>
